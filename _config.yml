@@ -10,8 +10,8 @@ title: The Wang Technology-Driven Drug Discovery (Tech3D) Group
 email: c.wang@imb.uq.edu.au
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Wang Tech3D Group.
-baseurl: "wanggroup-tech3d.github.io/tech3d"
-url: ""
+baseurl: "tech3d"
+url: "wanggroup-tech3d.github.io"
 
 include:
   - .htaccess

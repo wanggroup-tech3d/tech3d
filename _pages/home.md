@@ -32,6 +32,12 @@ The key to solving some of our world's biggest challenges, whether that be in me
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/picnic.jpg" alt="Slide 2" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/2024-Wang-Group-2.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/claw.jpg" alt="Slide 2" />
+        </div>
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/aboutme2-01.png" alt="Slide 1" />
         </div>

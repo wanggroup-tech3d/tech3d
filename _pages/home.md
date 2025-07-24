@@ -51,7 +51,7 @@ permalink: /
 </div>
 
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://...) **!**
+**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** **!**
 
 
 

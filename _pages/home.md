@@ -59,6 +59,4 @@ The key to solving some of our world's biggest challenges, whether that be in me
 
 
 
-<figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/banner-09-01.png" style="width: 200px">
-</figure>
+

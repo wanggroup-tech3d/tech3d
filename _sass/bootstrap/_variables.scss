@@ -21,7 +21,7 @@ $brand-info:            #75CAEB !default;
 $brand-warning:         #FF851B !default;
 $brand-danger:          #FF4136 !default;
 
-$blue-base:             #1f43a6 !default;
+$blue-base:             #111740 !default;
 $blue-darker:            lighten($blue-base, 13.5%) !default; // #222
 $blue-dark:              lighten($blue-base, 20%) !default;   // #333
 $blue:                   lighten($blue-base, 33.5%) !default; // #555
@@ -36,7 +36,7 @@ $blue-lighter:           lighten($blue-base, 93.5%) !default; // #eee
 //** Background color for `<body>`.
 $body-bg:               #fff !default;
 //** Global text color on `<body>`.
-$text-color:            $blue !default;
+$text-color:            $gray !default;
 
 //** Global textual link color.
 $link-color:            $brand-primary !default;
@@ -76,7 +76,7 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 $headings-font-family:    inherit !default;
 $headings-font-weight:    400 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:          $blue-dark !default;
+$headings-color:          $gray-dark !default;
 
 
 //== Iconography
@@ -143,7 +143,7 @@ $table-bg-hover:                #f5f5f5 !default;
 $table-bg-active:               $table-bg-hover !default;
 
 //** Border color for table and cell borders.
-$table-border-color:            $blue-lighter !default;
+$table-border-color:            $gray-lighter !default;
 
 
 //== Buttons
@@ -377,12 +377,12 @@ $navbar-default-bg:                #f8f8f8 !default;
 $navbar-default-border:            $input-border !default;
 
 // Navbar links
-$navbar-default-link-color:                $gray-light !default;
-$navbar-default-link-hover-color:          $gray-dark !default;
+$navbar-default-link-color:                $blue-light !default;
+$navbar-default-link-hover-color:          $blue-dark !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            transparent !default;
-$navbar-default-link-disabled-color:       $gray-lighter !default;
+$navbar-default-link-disabled-color:       $blue-lighter !default;
 $navbar-default-link-disabled-bg:          transparent !default;
 
 // Navbar brand label

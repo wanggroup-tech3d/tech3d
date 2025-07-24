@@ -26,7 +26,7 @@ The key to solving some of our world's biggest challenges, whether that be in me
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/technologies-01.png" alt="Slide 1" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/modalities-01.png" alt="Slide 1" />
         </div>
         <div class="item">
@@ -38,7 +38,7 @@ The key to solving some of our world's biggest challenges, whether that be in me
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/claw.jpg" alt="Slide 2" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/aboutme2-01.png" alt="Slide 1" />
         </div>
     </div>

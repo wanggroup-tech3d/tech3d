@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <h3>Discovering new ways to make better drugs</h3>
-The key to solving some of our world's biggest challenges, whether that be in medicine or agriculture, relies on the ability to precision engineer molecules at will. These could be new cancer drugs that harness the body's immune system or new antibiotics that are resistant resilient. 
+<p>We are developing innovative technologies that make the process of cancer drug discovery faster, smarter, and more precise.</p>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->

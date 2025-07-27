@@ -9,7 +9,7 @@ permalink: /research/
 # Research
 
 Here are some themes and techniques that we currently work on:
-![]({{ site.url }}{{ site.baseurl }}/images/slider/ailab-05c-01.png){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider/ailab-05c-01.png){: style="width: 250px; float: right; margin: 0px  10px"}
 
 **How Machine Learning is Helping Build Better Cancer Imaging Molecules.** The right treatment depends on the right diagnosis. This project aims to engineer advanced agents capable of precisely locating and "painting" every cancer cell in the body, enabling clinicians to detect and treat tumours with unprecedented resolution. The candidate will gain expertise in drug discovery through computational biology and molecular biology. If you're interested in learning more about drug design or exploring potential projects, please feel free to reach out.
 

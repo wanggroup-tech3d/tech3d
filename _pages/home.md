@@ -8,6 +8,7 @@ permalink: /
 
 <h3>Discovering new ways to make better drugs</h3>
 <p>We are developing innovative technologies that make the process of cancer drug discovery faster, smarter, and more precise.</p>
+<p>We aspire to improve outcomes in lung cancer, one of the hardest types to treat.</p>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->

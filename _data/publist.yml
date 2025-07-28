@@ -33,3 +33,13 @@
     url: https://doi.org/10.1021/jacs.1c08132
     display: J Am Chem Soc. 2021 Nov 10;143(44):18536-18547.
   highlight: 1
+
+- title: "Bioactive Cyclization Optimizes the Affinity of a Proprotein Convertase Subtilisin/Kexin Type 9 (PCSK9) Peptide Inhibitor"
+  image: acs.jmedchem.0c01766.webp
+  description: Peptides are regarded as promising next-generation therapeutics. However, an analysis of over 1000 bioactive peptide candidates suggests that many have underdeveloped affinities and could benefit from cyclization using a bridging linker sequence. Until now, the primary focus has been on the use of inert peptide linkers. Here, we show that affinity can be significantly improved by enriching the linker with functional amino acids. We engineered a peptide inhibitor of PCSK9, a target for clinical management of hypercholesterolemia, to demonstrate this concept. Cyclization linker optimization from library screening produced a cyclic peptide with ∼100-fold improved activity over the parent peptide and efficiently restored low-density lipoprotein (LDL) receptor levels and cleared extracellular LDL. The linker forms favorable interactions with PCSK9 as evidenced by thermodynamics, structure-activity relationship (SAR), NMR, and molecular dynamics (MD) studies. This PCSK9 inhibitor is one of many peptides that could benefit from bioactive cyclization, a strategy that is amenable to broad application in pharmaceutical design.
+  authors: Benjamin J Tombling, Carmen Lammi, Nicole Lawrence, Edward K Gilding, Giovanni Grazioso, David J Craik, Conan K Wang
+  link:
+    url: https://doi.org/10.1021/acs.jmedchem.0c01766
+    display: J Med Chem. 2021 Mar 11;64(5):2523-2533.
+  highlight: 1
+

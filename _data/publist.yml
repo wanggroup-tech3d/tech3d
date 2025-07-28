@@ -15,3 +15,21 @@
     url: https://doi.org/10.1039/d4sc01088d
     display: Chem Sci. 2024 Jul 13;15(33):13130-13147.
   highlight: 1
+
+- title: "Improving Stability Enhances In Vivo Efficacy of a PCSK9 Inhibitory Peptide"
+  image: jacs.2c08029.webp
+  description: Optimization of peptide stability is essential for the development of peptides as bona fide alternatives to approved monoclonal antibodies. This is clearly the case for the many peptides reported to antagonize proprotein convertase subtilisin-like/kexin type 9 (PCSK9), a clinically validated target for lowering cholesterol. However, the effects of optimization of stability on in vivo activity and particularly the effects of binding to albumin, an emerging drug design paradigm, have not been studied for such peptide leads. In this study, we optimized a PCSK9 inhibitory peptide by mutagenesis and then by conjugation to a short lipidated tag to design P9-alb fusion peptides that have strong affinity to human serum albumin. Although attachment of the tag reduced activity against PCSK9, which was more evident in surface plasmon resonance binding and enzyme-linked immunosorbent competition assays than in cellular assays of activity, activity remained in the nanomolar range (∼40 nM). P9-alb peptides were exceptionally stable in human serum and had half-lives exceeding 48 h, correlating with longer half-lives in mice (40.8 min) compared to the unconjugated peptide. Furthermore, the decrease in in vitro binding was not deleterious to in vivo function, showing that engendering albumin binding improved low-density lipoprotein receptor recovery and cholesterol-lowering activity. Indeed, the peptide P9-albN2 achieved similar functional endpoints as the approved anti-PCSK9 antibody evolocumab, albeit at higher doses. Our study illustrates that optimization of stability instead of binding affinity is an effective way to improve in vivo function.
+  authors: Yuhui Zhang, Li Wang, Benjamin J Tombling, Carmen Lammi, Yen-Hua Huang, Yue Li, Martina Bartolomei, Bin Hong, David J Craik, Conan K Wang
+  link:
+    url: https://doi.org/10.1021/jacs.2c08029
+    display: J Am Chem Soc. 2022 Oct 26;144(42):19485-19498.
+  highlight: 1
+
+  - title: "Rational Design of Potent Peptide Inhibitors of the PD-1:PD-L1 Interaction for Cancer Immunotherapy"
+  image: jacs.1c08132.webp
+  description: Peptides have potential to be developed into immune checkpoint inhibitors, but the target interfaces are difficult to inhibit. Here, we explored an approach to mimic the binding surface of PD-1 to design inhibitors. Mimicking native PD-1 resulted in a mimetic with no activity. However, mimicking an affinity-optimized PD-1 resulted in the peptide mimetic MOPD-1 that displayed nanomolar affinity to PD-L1 and could inhibit PD-1:PD-L1 interactions in both protein- and cell-based assays. Mutagenesis and structural characterization using NMR spectroscopy and X-ray crystallography revealed that binding residues from the high affinity PD-1 are crucial for the bioactivity of MOPD-1. Furthermore, MOPD-1 was extremely stable in human serum and inhibited tumor growth in vivo, suggesting it has potential for use in cancer immunotherapy. The successful design of an inhibitor of PD-1:PD-L1 using the mimicry approach described herein illustrates the value of placing greater emphasis on optimizing the target interface before inhibitor design and is an approach that could have broader utility for the design of peptide inhibitors for other complex protein-protein interactions.
+  authors: Huawu Yin, Xiuman Zhou, Yen-Hua Huang, Gordon J King, Brett M Collins, Yanfeng Gao, David J Craik, Conan K Wang
+  link:
+    url: https://doi.org/10.1021/jacs.1c08132
+    display: J Am Chem Soc. 2021 Nov 10;143(44):18536-18547.
+  highlight: 1

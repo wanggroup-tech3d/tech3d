@@ -8,6 +8,8 @@ permalink: /research/
 
 # Research
 
+<h5><a href="https://imb.uq.edu.au/research-groups/wang">Find out about our Team, Projects and more at our University of Queensland website</a></h5>
+
 <p>
 ![]({{ site.url }}{{ site.baseurl }}/images/slider/ailab-05c-01.png){: style="width: 250px; float: center; margin: 0px  10px"}
 </p>
@@ -22,4 +24,4 @@ Here are some themes and techniques that we currently work on:
 
 **Shrinking the Tools to Speed Up the Fight Against Cancer.** Powerful technologies have emerged to perform millions of experiments quickly in tiny nanolitre droplets, and have attracted wide interest from major pharmaceutical companies because of the potential to accelerate drug discovery. Research project opportunities are available to investigate these next-generation tools for drug design and learn new skills in one or more areas of nanotechnology and molecular biology. 
 
-<h5><a href="https://imb.uq.edu.au/research-groups/wang">Find out about our Team, Projects and more at our University of Queensland website</a></h5>
+

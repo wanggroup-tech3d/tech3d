@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- Jump to [staff](#staff), [Students](#students), [alumni](#alumni).
+ Jump to [staff](#staff), [students](#students), [alumni](#alumni).
 
 ## Staff
 {% assign number_printed = 0 %}

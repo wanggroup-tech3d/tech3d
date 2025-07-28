@@ -5,3 +5,20 @@
   number_educ: 1
   education1: <a href="https://about.uq.edu.au/experts/1542">UQ Experts Profile</a>
   
+- name: Jing Xie
+  photo: Jing_Xie.jpg
+  info: Postdoctoral Research Fellow
+  email: jing.xie@uq.edu.au
+  number_educ: 0
+
+- name: Gayathri S
+  photo: Gayathri_S.jpg
+  info: Postdoctoral Research Fellow
+  email: gayathri.subramaniam@uq.edu.au	
+  number_educ: 0
+
+- name: Joshua Dilly
+  photo: Joshua_Dilly.jpg
+  info: Postdoctoral Research Fellow
+  email: j.dilly@uq.edu.au
+  number_educ: 0

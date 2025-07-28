@@ -1,11 +1,24 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Biswajit Biswas
+  photo: Biswajit_Biswas.jpg
+  info: Student
+  email: biswajit.biswas@uq.edu.au
+  number_educ: 0
 
+- name: Zhihao Jiang
+  photo: Zhihao_Jiang.jpg
+  info: Student
+  email: zhihao.jiang@uq.edu.au
+  number_educ: 0
+
+- name: Kevin Zhang
+  photo: Kevin_Zhang.jpg
+  info: Student
+  email: yingjiang.zhang@uq.edu.au
+  number_educ: 0
+
+- name: Hiron Devnath
+  photo: Hiron_Devnath.jpg
+  info: Student
+  email: h.devnath@uq.edu.au
+  number_educ: 0
 

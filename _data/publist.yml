@@ -1,9 +1,9 @@
 - title: "High-throughput enrichment of functional disulfide-rich peptides by droplet microfluidics"
-  image: shiba_cover.jpg
-  description: Can superconducting coherence peaks form impurity-like ring patterns? And how can such features appear across the entire surface?  We suggest an an amorphous Shiba state located outside the superconducting gap – a Shiba liquid.
-  authors: Jinwon Lee* & Sanghun Lee*, Andreas Kreisel, Jens Paaske, Brian M. Andersen, Koen M. Bastiaans, Damianos Chatzopoulosm Genda GuDoohee Cho, Milan P. Allan
+  image: d5lc00261c.jpg
+  description: Disulfide-rich peptides (DRPs) have evolved intricate topologies to carry out a wide range of bioactivities throughout nature, e.g., in fungi, insects, plants and animals, and have proven applications in medicine and agriculture. To discover novel DRPs, it is now routine to screen DRP libraries for target affinity, but target binding does not necessarily correlate with function. This study reports an innovative platform for screening of DRP libraries based on the functional endpoint of biochemical reactions within picoliter-sized water-in-oil droplets. We leveraged yeast secretory expression to ensure proper assembly of disulfide connectivity, and thus peptide shape, and engineered customizable strains for facile detection of function (i.e., protease inhibitory activity) for libraries of DRPs. Rapid enrichment of a potent trypsin inhibitor (MCoTI-II) from a >100 000 pool of randomized variants across four rounds of selection was achieved, far exceeding the library sizes explored previously for peptide systems in droplet microfluidics. This developed platform provides a foundation to explore the functional engineering of DRPs.
+  authors: Jing Xie, Kuok Yap, Simon J de Veer, Selvakumar Edwardraja, Thomas Durek, Matt Trau, David J Craik, Conan K Wang 
   link:
-    url: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.4c05650
-    display: Nano Lett. 25, 4227 (2025)
+    url: https://doi.org/10.1039/d5lc00261c
+    display: Lab Chip. 2025 Jul 8;25(14):3525-3536. doi: 10.1039/d5lc00261c.
   highlight: 1
 

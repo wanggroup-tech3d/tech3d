@@ -9,6 +9,8 @@ permalink: /publications/
 
 # Publications
 
+<h5><a href="https://imb.uq.edu.au/research-groups/wang">Find out about our Team, Projects and more at our University of Queensland website</a></h5>
+
 ## Group highlights
 
 {% assign number_printed = 0 %}

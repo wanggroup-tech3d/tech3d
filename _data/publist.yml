@@ -4,6 +4,14 @@
   authors: Jing Xie, Kuok Yap, Simon J de Veer, Selvakumar Edwardraja, Thomas Durek, Matt Trau, David J Craik, Conan K Wang 
   link:
     url: https://doi.org/10.1039/d5lc00261c
-    display: Lab Chip. 2025 Jul 8;25(14):3525-3536. doi: 10.1039/d5lc00261c.
+    display: Lab Chip. 2025 Jul 8;25(14):3525-3536.
   highlight: 1
 
+- title: "The prospect of substrate-based kinase inhibitors to improve target selectivity and overcome drug resistance"
+  image: d4sc01088d.jpg
+  description: Human kinases are recognized as one of the most important drug targets associated with cancer. There are >80 FDA-approved kinase inhibitors to date, most of which work by inhibiting ATP binding to the kinase. However, the frequent development of single-point mutations within the kinase domain has made overcoming drug resistance a major challenge in drug discovery today. Targeting the substrate site of kinases can offer a more selective and resistance-resilient solution compared to ATP inhibition but has traditionally been challenging. However, emerging technologies for the discovery of drug leads using recombinant display and stabilization of lead compounds have increased interest in targeting the substrate site of kinases. This review discusses recent advances in the substrate-based inhibition of protein kinases and the potential of such approaches for overcoming the emergence of resistance.
+  authors: Biswajit Biswas, Yen-Hua Huang, David J Craik, Conan K Wang
+  link:
+    url: https://doi.org/10.1039/d4sc01088d
+    display: Chem Sci. 2024 Jul 13;15(33):13130-13147.
+  highlight: 1

@@ -8,7 +8,9 @@ permalink: /team/
 
 # Group Members
 
- Jump to [staff](#staff), [students](#students), [alumni](#alumni).
+<h5><a href="https://imb.uq.edu.au/research-groups/wang">Find out about our Team, Projects and more at our University of Queensland website</a></h5>
+
+Jump to [staff](#staff), [students](#students), [alumni](#alumni).
 
 ## Staff
 {% assign number_printed = 0 %}
